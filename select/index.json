@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Lycoris",
+  "base_artist": "Nornis",
+  "createdAt": "2026-02-10T16:06:15.280850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lycoris",
+      "artist": "THE SxPLAY(Sugawara Sayuri)",
+      "has_synced": true,
+      "path": "select/01_Lycoris_THE_SxPLAY(Sugawara_Sayuri).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "vanilla sky from 1st one man live lycoris",
+      "artist": "綾野ましろ",
+      "has_synced": true,
+      "path": "select/02_vanilla_sky_from_1st_one_man_live_lycoris_綾野ましろ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lycoris radiata",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/03_Lycoris_radiata_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ideal white from 1st one man live lycoris",
+      "artist": "綾野ましろ",
+      "has_synced": false,
+      "path": "select/04_ideal_white_from_1st_one_man_live_lycoris_綾野ましろ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lycoris",
+      "artist": "THE SxPLAY",
+      "has_synced": true,
+      "path": "select/05_Lycoris_THE_SxPLAY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lycoris",
+      "artist": "Nornis",
+      "has_synced": true,
+      "path": "select/06_Lycoris_Nornis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lycoris",
+      "artist": "THE SxPLAY(菅原紗由理)",
+      "has_synced": true,
+      "path": "select/07_Lycoris_THE_SxPLAY(菅原紗由理).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lycoris",
+      "artist": "Nornis",
+      "has_synced": false,
+      "path": "select/pl_01_Lycoris_Nornis.txt"
+    }
+  ]
+}
